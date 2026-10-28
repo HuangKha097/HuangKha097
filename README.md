@@ -34,3 +34,8 @@
 - Location: **Ho Chi Minh City, Vietnam**
 
 ---
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,tailwind,mongodb,mysql,git,github,postman&perline=6" />
+  </a>
+</div>
