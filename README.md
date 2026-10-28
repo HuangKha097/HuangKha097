@@ -10,17 +10,17 @@
   <br/><br/>
 
   <a href="https://github.com/HuangKha097">
-    <img src="https://img.shields.io/badge/GitHub-HuangKha097-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/huangkha097/">
-    <img src="https://img.shields.io/badge/LinkedIn-huangkha097-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/hoang.kha.36441">
-    <img src="https://img.shields.io/badge/Facebook-Hoang_Kha-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:huangkha097@gmail.com">
-    <img src="https://img.shields.io/badge/Email-huangkha097%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/GitHub-HuangKha097-181717?style=flat&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/huangkha097/">
+  <img src="https://img.shields.io/badge/LinkedIn-huangkha097-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/hoang.kha.36441">
+  <img src="https://img.shields.io/badge/Facebook-Hoang_Kha-1877F2?style=flat&logo=facebook&logoColor=white" />
+</a>
+<a href="mailto:huangkha097@gmail.com">
+  <img src="https://img.shields.io/badge/Email-huangkha097%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
