@@ -28,7 +28,7 @@
 
 ### 🧑🏻‍💻 About Me
 - Focus Areas: **Web Development (Frontend & Fullstack)**
-- Favorite Tech Stack: **JavaScript**, **TypeScript**, **React**, **Next.js**, **NestJS**, **Node.js**
+- Favorite Tech Stack: **JavaScript**, **TypeScript**, **React**, **Next.js**, **NestJS**,**Express.js**, **Node.js**
 - Databases & Real-time: **MongoDB**, **MySQL**, **Socket.IO**
 - Goal: Turning ideas into smooth web applications with optimized user experiences
 - Location: **Ho Chi Minh City, Vietnam**
@@ -36,6 +36,6 @@
 ---
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,tailwind,mongodb,mysql,git,github,postman&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,express,nestjs,nodejs,tailwind,mongodb,mysql,git,github,postman&perline=7" />
   </a>
 </div>
