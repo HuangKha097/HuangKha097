@@ -1,12 +1,14 @@
 <div align="center">
 
-  <!-- Title / Main Subtitle -->
-  <h1>Hi there, I'm Quach Hoang Kha👋</h1>
-  <h3> 💻 Web Developer | JavaScript & TypeScript Enthusiast </h3>
 
-  <p>Passionate about building optimized, seamless, and modern web applications.</p>
+  <h1>Hi there, I'm Quách Hoàng Kha 👋</h1>
 
-  <!-- Social & Contact Badges -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Web+Developer;JavaScript+%26+TypeScript+Enthusiast;Building+modern+%26+type-safe+web+apps" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
   <a href="https://github.com/HuangKha097">
     <img src="https://img.shields.io/badge/GitHub-HuangKha097-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
