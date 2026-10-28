@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <h1>Hi there, I'm Quách Hoàng Kha 👋</h1>
+  <h1>Hi there, I'm Quach Hoang Kha 👋</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Web+Developer;JavaScript+%26+TypeScript+Enthusiast;Building+modern+%26+type-safe+web+apps" alt="Typing SVG" />
