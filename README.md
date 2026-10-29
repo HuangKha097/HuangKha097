@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <h1>Hi there, I'm Quach Hoang Kha <img align="right" width="160" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" alt="Pixel Squid" /></h1>
+  <h1>Hi there, I'm Quach Hoang Kha 👋🏻</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Web+Developer;JavaScript+%26+TypeScript+Enthusiast;Building+modern+%26+type-safe+web+apps" alt="Typing SVG" />
@@ -35,6 +35,7 @@
 
 ---
 <div align="center">
+   <img align="right" width="160" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" alt="meow" />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,express,nestjs,nodejs,tailwind,mongodb,mysql,git,github,postman&perline=7" />
   </a>
