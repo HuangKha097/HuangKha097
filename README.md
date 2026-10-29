@@ -27,6 +27,7 @@
 ---
 
 ### 🧑🏻‍💻 About Me
+<img align="right" width="160" src="https://i.pinimg.com/originals/8d/d1/76/8dd176c04a07c37b80a640dbc73382ff.gif" alt="Pixel Squid" />
 - Focus Areas: **Web Development (Frontend & Fullstack)**
 - Favorite Tech Stack: **JavaScript**, **TypeScript**, **React**, **Next.js**, **NestJS**,**Express.js**, **Node.js**
 - Databases & Real-time: **MongoDB**, **MySQL**, **Socket.IO**
